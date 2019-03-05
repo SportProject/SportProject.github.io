@@ -14,3 +14,10 @@ function res() {
   var message=text1+sum+text2+text3;
   alert (message);
 }
+function openImageWindow(src) {
+    var image = new Image();
+    image.src = src;
+    var width = image.width;
+    var height = image.height;
+    window.open(src,"Image","width=" + width + ",height=" + height);
+  }
