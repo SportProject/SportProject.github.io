@@ -1,6 +1,6 @@
 /*������ �����*/
 .container {
-background-color: #E8F4A4;
+background-color: rgb(252, 253, 204);
 }
 h5, h4 {text-align: center;}
 h1{
@@ -52,7 +52,7 @@ ul{
 	list-style-image:url(../images/star2.gif);
 	}
 .top-material {
-	background-color: #E8F4A4;
+	background-color: rgb(252, 253, 204);
 	font-size: 15px;
 }
 .info{
